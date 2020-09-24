@@ -52,7 +52,8 @@
                         La Gobernación de Córdoba informó que este martes se reportaron 300 nuevos casos de Covid-19, para sumar un total de 23.255 positivos en total.     
                         Los nuevos casos se ubican en los siguientes municipios: Montería 176, Cereté 21, Montelíbano 20, Puerto Libertador 14, Planeta Rica 10, Sahagún 10, Lorica 9, Ayapel 8, La Apartada 7 <a style="color: blue; font-size: 12px; text-decoration: none;" href="">Ver mas...</a>
                         </p>
-                            <h1>Hola probando</h1>
+                         <h2>Datos de segunda prueba</h2>  
+                         <h2>Datos de tercerra prueba</h2>  
                         <button style="float: right;" type="button" class="btn btn-secondary">Ver noticia</button>
                     </div>
             </div><hr>
