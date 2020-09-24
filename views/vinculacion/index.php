@@ -1,7 +1,7 @@
 
 <?php require 'views/main/header.php'; ?>
 
-<div class="container" >
+<div class="container conozcanos-col bg-white" >
     <div class="row">
         <div class="col-12">
             <h2>Vinculación</h2>

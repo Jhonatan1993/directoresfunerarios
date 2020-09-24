@@ -1,8 +1,8 @@
 
     <?php require 'views/main/header.php'; ?>
 
-<div class="container " id="main">
-    <div class="row">
+<div class="container  " >
+    <div class="row conozcanos-col">
         <div class="col-12 mb-4">
             <h2>SERVICIOS</h2>
             <ul>

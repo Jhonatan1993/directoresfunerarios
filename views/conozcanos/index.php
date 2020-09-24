@@ -2,7 +2,7 @@
 
 
 
-<div class="container " >
+<div class="container contenedor-b" >
     <div class="row conozcanos">
         
         <div class="col-12 conozcanos-col mb-4">

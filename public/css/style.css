@@ -6,11 +6,15 @@
 body{
     @import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed:wght@300&display=swap');
     font-family: 'Roboto Condensed', sans-serif !important;
-    background-color: rgb(255, 255, 253);   
+    background-color: #dee4e691 !important;   
 }
+
 #header{
-    width: 100%;
-    height: 30px;
+    margin-top: 115px;
+    /* width: 100%;
+    height: 20px !important;
+    position: fixed;
+    z-index: 100 !important; */
 }
 #footer{
     background-color: #003466;
@@ -40,7 +44,7 @@ a {
     font-size: 20px;
 }
 .contenedor{
-    margin-top: 85px;
+    margin-top: 100px;
 }
 .contenedor-b{
     margin-bottom: 60px;
@@ -51,8 +55,9 @@ a {
     text-align: center;
 }
 .conozcanos-col{
-    padding: 40px;
-    box-shadow: 1px 2px 2px 2px #b1b1b1ee;
+    padding: 20px;
+    background-color: white;
+    /* box-shadow: 1px 2px 2px 2px #b1b1b1ee; */
     /* border: gray solid 1px; */
     /* border-radius: 10px; */
 
@@ -76,4 +81,33 @@ a {
 
 .sinraya{
     text-decoration: none;
+}
+/* Estilos de para personalizar la barra de Scroll */
+::-webkit-scrollbar {
+    width: 8px;     /* Tamaño del scroll en vertical */
+    height: 3px;    /* Tamaño del scroll en horizontal */
+    /* display: none;  Ocultar scroll */
+}
+::-webkit-scrollbar-thumb {
+    background: #ccc;
+    border-radius: 4px;
+}
+/* Cambiamos el fondo y agregamos una sombra cuando esté en hover */
+::-webkit-scrollbar-thumb:hover {
+    background: #b3b3b3;
+    box-shadow: 0 0 2px 1px rgba(0, 0, 0, 0.2);
+}
+/* Cambiamos el fondo cuando esté en active */
+::-webkit-scrollbar-thumb:active {
+    background-color: #999999;
+}
+/* Ponemos un color de fondo y redondeamos las esquinas del track */
+::-webkit-scrollbar-track {
+    background: #e1e1e1;
+    border-radius: 4px;
+}
+/* Cambiamos el fondo cuando esté en active o hover */
+::-webkit-scrollbar-track:hover,
+::-webkit-scrollbar-track:active {
+  background: #d4d4d4;
 }

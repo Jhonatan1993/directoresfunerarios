@@ -22,7 +22,7 @@
             
         </ul> -->
 
-    <div class="fixed-top ">
+    <div class="fixed-top barra-nav ">
       <div class="collapse" id="navbarToggleExternalContent">
         <div class="bg-dark p-4" style="display: flex;">
             <a class="navbar-brand" href="main">Inicio</a>

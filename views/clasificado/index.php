@@ -4,25 +4,25 @@
 <div class="container contenedor-b" >
 
 <!-- Image and text -->
-<nav class="navbar sticky-top navbar-light bg-light" style=" display: flex; box-shadow: 1px 2px 2px 2px #b1b1b1ee;">
-<div style="display: flex;">
+    <nav class="navbar sticky-top navbar-light bg-white" style=" display: flex; ">
+    <div style="display: flex;">
 
-    <img src="public/img/fondo-2.png" width="50" height="50" class="d-inline-block align-top" alt="" loading="lazy">
-    <a class="navbar-brand d-inline-block ml-3 mt-1" href="clasificado">
-      Avisos clasificados 
-    </a>
-</div>
+        <img src="public/img/fondo-2.png" width="50" height="50" class="d-inline-block align-top" alt="" loading="lazy">
+        <a class="navbar-brand d-inline-block ml-3 mt-1" href="clasificado">
+        Avisos clasificados 
+        </a>
+    </div>
 
-        <form class="form-inline my-2 my-lg-0">
-            <input class="form-control mr-sm-2" type="search" placeholder="Buscar clasificado" aria-label="Search">
-            <button class="btn btn-secondary my-2 my-sm-0" type="submit">Buscar</button>
-        </form>
-</nav>
+            <form class="form-inline my-2 my-lg-0">
+                <input class="form-control mr-sm-2" type="search" placeholder="Buscar clasificado" aria-label="Search">
+                <button class="btn btn-secondary my-2 my-sm-0" type="submit">Buscar</button>
+            </form>
+    </nav>
 
     <div class="row mt-3">
             <div class="col">
                 
-                <div class="card bg-light  mb-3"  style="display: flex; box-shadow: 1px 2px 2px 2px #b1b1b1ee;">
+                <div class="card bg-light  mb-3"  style="display: flex; ">
                     <div class="row no-gutters">
                         <div class="col-1" style="margin-top: 50px; ">
                         <img src="public/img/fondo-2.jpg" class="card-img" style="width: 100px; margin-left: 5px;">
@@ -45,7 +45,7 @@
                     </div>
                 </div>
               
-                <div class="card bg-light border-secondary  mb-3"  style="display: flex;  box-shadow: 1px 2px 2px 2px #b1b1b1ee;">
+                <div class="card bg-light border-secondary  mb-3"  style="display: flex;  ">
                     <div class="row no-gutters">
                         <div class="col-1" style="margin-top: 50px; ">
                         <img src="public/img/fondo-2.jpg" class="card-img" style="width: 100px; margin-left: 5px; ">
@@ -70,7 +70,7 @@
 
            
 
-                <div class="card mb-3 bg-light border-secondary "  style="display: flex;  box-shadow: 1px 2px 2px 2px #b1b1b1ee;">
+                <div class="card mb-3 bg-light border-secondary "  style="display: flex;  ">
                         <div class="row no-gutters">
                             <div class="col-1" style="margin-top: 50px; ">
                             <img src="public/img/fondo-2.jpg" class="card-img" style="width: 100px; margin-left: 5px;">
