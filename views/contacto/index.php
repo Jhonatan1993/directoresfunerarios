@@ -1,7 +1,7 @@
 
     <?php require 'views/main/header.php'; ?>
 
-<div class="container contenedor" id="main">
+<div class="container contenedor conozcanos-col">
     <div class="text-center">
         <h1 >Informacion de contacto</h1><hr>
         <p>

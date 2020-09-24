@@ -33,6 +33,7 @@
             <a class="navbar-brand" href="clasificado">Clasificados</a>
             <a class="navbar-brand" href="noticias">Noticias</a>
             <a class="navbar-brand" href="contacto">Contacto</a>
+            <!-- <a class="navbar-brand" href="requiem">Requiem</a> -->
             <form class="form-inline my-2 my-lg-0 ml-5">
                   <input class="form-control mr-sm-2" type="search" placeholder="Buscar" aria-label="Search">
                   <button class="btn btn-outline-secondary my-2 my-sm-0" style="color: white;" type="submit">Buscar</button>
@@ -42,7 +43,7 @@
       <!-- <nav class="navbar navbar-dark bg-dark"> -->
         <?php 
         $url = $_GET['url'];
-        if($url === 'requiem'){
+        if($url === 'requiem' || $url === 'condolencias'){
           echo '<nav class="navbar navbar-dark bg-dark">';
           echo '<img src="public/img/rv-2-negro.jpg"width="350" height="60" alt="" loading="lazy">';
           }else {
