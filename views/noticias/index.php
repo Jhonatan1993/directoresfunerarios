@@ -54,6 +54,8 @@
                         </p>
                          <h2>Datos de segunda prueba</h2>  
                          <h2>Datos de tercerra prueba</h2>  
+                         <h2>Datos de cuearta prueba</h2>  
+                         <h2>Datos de tercerra prueba</h2>  
                         <button style="float: right;" type="button" class="btn btn-secondary">Ver noticia</button>
                     </div>
             </div><hr>
