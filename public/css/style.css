@@ -1,0 +1,79 @@
+*{
+    padding: 0;
+    margin: 0;
+ 
+}
+body{
+    @import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed:wght@300&display=swap');
+    font-family: 'Roboto Condensed', sans-serif !important;
+    background-color: rgb(255, 255, 253);   
+}
+#header{
+    width: 100%;
+    height: 30px;
+}
+#footer{
+    background-color: #003466;
+    text-align: center;
+    color: white;
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+}
+#footer p{
+    padding: 5px;
+    font-size: 10px;
+}
+.logo-center{
+    display: block;
+    align-items: center;
+    justify-content: center; 
+    
+}
+.bg-dark {
+    background-color: #003466!important;
+}
+a {
+    
+    color: #eee;
+   
+    font-size: 20px;
+}
+.contenedor{
+    margin-top: 85px;
+}
+.contenedor-b{
+    margin-bottom: 60px;
+
+}
+.conozcanos{
+
+    text-align: center;
+}
+.conozcanos-col{
+    padding: 40px;
+    box-shadow: 1px 2px 2px 2px #b1b1b1ee;
+    /* border: gray solid 1px; */
+    /* border-radius: 10px; */
+
+}
+.btn-secondary {
+    color: #fff;
+    background-color: #003466;
+    border-color: #003466;
+    text-decoration: none;
+}
+.btn-secondary:hover {
+    text-decoration: none;
+    color: #fff;
+    background-color: #0774b3;
+    border-color: #0774b3;
+}
+.btn-outline-secondary{
+    background-color: #0774b3;
+    border-color: #0774b3;
+}
+
+.sinraya{
+    text-decoration: none;
+}
